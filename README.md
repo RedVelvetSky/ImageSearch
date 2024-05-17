@@ -117,7 +117,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The FAISS library for efficient similarity search.
 - The OpenAI API for providing pretrained models.
 - Z. Vopalkova for original gui, though it was modified.
-- Jakub Lokoc for helding competition.
+- Jakub Lokoc for helding a competition.
 
 ## Contact
 
