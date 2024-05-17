@@ -13,7 +13,7 @@ class Model:
         # this should return True if CUDA is available
         print(torch.cuda.is_available())
         # loading features
-        features = np.load("E:\\Stuff\\Python\\Video Retrieval\\clip_model\\Projects\\Competition\\features.npy")
+        features = np.load("E:\\Stuff\\features.npy")
         # Convert the numpy array to a PyTorch tensor and ensure the tensor is of type float for any further computation
         self.features = torch.from_numpy(features).float()
 
