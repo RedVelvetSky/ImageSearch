@@ -116,7 +116,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The CLIP model by OpenAI.
 - The FAISS library for efficient similarity search.
 - The OpenAI API for providing pretrained models.
+- Z. Vopalkova for original gui, though it was modified.
+- Jakub Lokoc for helding competition.
 
 ## Contact
 
-For any questions or suggestions, please contact [your_email@example.com](mailto:your_email@example.com).
+For any questions or suggestions, please contact [dujldo.7@gmail.com](mailto:dujldo.7@gmail.com).
