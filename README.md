@@ -1,4 +1,4 @@
-# Project Title: Image Retrieval Using CLIP Model
+# Image Retrieval Using CLIP Model
 
 ![GUI](./img.png)
 
